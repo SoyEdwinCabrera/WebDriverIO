@@ -12,7 +12,7 @@ El objetivo de este proyecto es automatizar pruebas funcionales de una aplicaci�
 
 El proyecto utiliza un enfoque modular para facilitar la reutilizaci처n del c처digo y la configuraci처n de pruebas.
 
-[![Video de demostraci처n](assets/WebdriverIO.gif)](assets/WebdriverIO.gif)
+[![Video de demostraci처n](assets/WebDriverIO.gif)](assets/WebDriverIO.gif)
 
 ---
 
