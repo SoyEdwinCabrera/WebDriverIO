@@ -1,5 +1,6 @@
 package org.grupo5;
 
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -97,9 +98,9 @@ public class AppTest {
 
     @BeforeEach
     public void setUp() throws MalformedURLException, InterruptedException {
-        System.out.println("Configurando el entorno de prueba...");
+        // System.out.println("Configurando el entorno de prueba...");
         driver = createConnection();
-        System.out.println("Entorno de prueba configurado.");
+        // System.out.println("Entorno de prueba configurado.");
     }
 
     @AfterEach
