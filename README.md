@@ -2,6 +2,10 @@
 
 Este proyecto es un conjunto de pruebas automatizadas para una aplicación móvil utilizando **Appium** y **JUnit 5**. Las pruebas están diseñadas para ejecutarse en un emulador o dispositivo Android y validan funcionalidades clave de la aplicación, como el inicio de sesión, manejo de errores y formularios.
 
+[![Video de demostración](WebDriverIO/assets/WebDriverIO.gif)](WebDriverIO/assets/WebDriverIO.gif)
+
+---
+
 ## 🚀 **Descripción del Proyecto**
 
 El objetivo de este proyecto es automatizar pruebas funcionales de una aplicación móvil utilizando Appium como framework de automatización y JUnit 5 como framework de pruebas. Las pruebas incluyen:
@@ -11,8 +15,6 @@ El objetivo de este proyecto es automatizar pruebas funcionales de una aplicaci�
 3. **Sección de formularios:** Validación de entrada de texto en un formulario.
 
 El proyecto utiliza un enfoque modular para facilitar la reutilización del código y la configuración de pruebas.
-
-[![Video de demostración](WebDriverIO/assets/WebDriverIO.gif)](WebDriverIO/assets/WebDriverIO.gif)
 
 ---
 
